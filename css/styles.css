@@ -33,9 +33,12 @@ h3{
     background-color: #dadfd1;
     color: black;
     resize: none;
-    width: 96px;
+    width: 113px;/*112*/
     padding: 10px;
     overflow: hidden;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    font-size: 16px; 
 }
 /*areaA*/
 

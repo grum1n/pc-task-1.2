@@ -1,6 +1,10 @@
 # pc-task-1.2
 pc-task-1.2
 
+## Mano sprendimas:
+ šiai užduočiai ,man gaunasi trumpiausias šitas kodas,
+ 
+
 ## Namų darbai
 ◆ Pakeisti textArea kad atitiktų šiuos reikalavimus:
 ◆ Yra pateikti du parametrai: minRows,
@@ -15,3 +19,4 @@ scrollbar
 ◆ Naudoti tik JS, HTML ir CSS
 ◆ Panaudoti EsLint ir Babel (jeigu naudosit
 ECMA6
+
